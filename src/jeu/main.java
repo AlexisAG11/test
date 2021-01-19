@@ -17,7 +17,7 @@ public class main {
     public static void main(String[] args) {
         IHMMap ihm = new IHMMap();
         ihm.setVisible(true);
-        //test github modification
+        //test github modification, tant qu'on push pas ça va pas sur github
     }
     
 }
