@@ -17,6 +17,7 @@ public class main {
     public static void main(String[] args) {
         IHMMap ihm = new IHMMap();
         ihm.setVisible(true);
+        //test github modification
     }
     
 }
